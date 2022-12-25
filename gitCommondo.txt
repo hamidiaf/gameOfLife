@@ -6,3 +6,5 @@ git checkout -b
 switching on new commond:
 
 git checkout <name of the branch>
+
+// TEST
